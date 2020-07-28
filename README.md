@@ -1,6 +1,7 @@
 # Family Relationships Representation Tree
 ![](./image/familyTree.png)
-# ScientificCalculator Operations
+
+# Scientific Calculator Operations
 * Adding
 * Subtracting
 * Multiplying
